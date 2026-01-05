@@ -3,7 +3,7 @@ name: Documentation Change Request
 about: Create a report to help us improve
 title: "[Documentation Issue] - "
 labels: documentation
-assignees: 'ryancdavison, gh-classroom-helper/instructors'
+assignees: 'ryancdavison, digipen-cs355/instructors'
 
 ---
 
